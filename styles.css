@@ -5,3 +5,6 @@
 
 .tab-manage-button{height:27px;width:27px;flex:0 0 auto;border:1px solid #e3e8e3;margin:0 0 7px;background:transparent;font-size:15px;letter-spacing:1px}.tab-manage-button:hover{background:#fff}
 @media(max-width:760px){.tab-manage-button{height:29px;width:29px;margin-bottom:0}}
+
+/* Compact tabs, matching the list/calendar switcher scale */
+.tab-bar{gap:7px;margin:-13px 0 10px;padding-bottom:0}.tab-bar-title{display:none}.tab-nav{gap:2px}.top-tab{height:31px;padding:0 9px;font-size:10px;border-bottom-width:2px}.tab-nav .tab-color{width:6px;height:6px}.add-tab-button,.tab-manage-button{height:24px;margin-bottom:3px}.add-tab-button{padding:0 7px}.tab-manage-button{width:24px;font-size:13px}.tab-actions{top:0}.tab-actions button{width:18px;height:18px;font-size:12px}@media(max-width:760px){.tab-bar{margin:-9px 0 9px;gap:5px}.top-tab{height:30px;padding:0 8px;font-size:10px}.add-tab-button,.tab-manage-button{height:25px;width:25px;margin-bottom:2px}.add-tab-button{font-size:0;padding:0}.tab-manage-button{font-size:13px}}

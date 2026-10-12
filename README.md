@@ -1,4 +1,4 @@
-# Koto — ToDo UI mock
+# Modo — ToDo UI mock
 
 A static, browser-only prototype for the agreed ToDo MVP. It contains synthetic sample content only and does not connect to authentication, a database, or cloud storage.
 
